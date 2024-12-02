@@ -19,7 +19,7 @@ matplotlib
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/CellularAutomata3D.git
+git clone https://github.com/ai-dengwsh/CellularAutomata3D.git
 cd CellularAutomata3D
 ```
 
